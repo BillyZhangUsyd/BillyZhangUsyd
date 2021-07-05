@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-* 🔭 I’m currently a Bachelor student in The University of Sydney (Civil Engineering/ Structures). Heading to the Imperial College London in September 2021 (Fluid Mechanics).
+## I’m currently a Bachelor student in The University of Sydney (Civil Engineering/ Structures). Heading to the Imperial College London in September 2021 (Fluid Mechanics).
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+* I’m currently a Bachelor student in The University of Sydney (Civil Engineering/ Structures). Heading to the Imperial College London in September 2021 (Fluid Mechanics).
+* Currently summarizing my notes on Matlab/ Python/ Typora/ Overleaef.
+* Open to collaborate on providing useful notes on the abovementioned app.
+* Leave messages and get in touch!
